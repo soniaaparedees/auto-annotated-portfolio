@@ -41,7 +41,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: email
+        - name: tell me
           label: come on don't be shy
           hideLabel: true
           placeholder: Email
