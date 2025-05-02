@@ -44,7 +44,7 @@ sections:
         - name: tell me
           label: Desire
           hideLabel: true
-          placeholder: tell me
+          placeholder: come on don't be shy
           isRequired: true
           width: 1/2
           type: EmailFormControl
