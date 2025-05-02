@@ -45,7 +45,7 @@ sections:
           name: name
           label: desire
           hideLabel: false
-          placeholder: Your name
+          placeholder: come on don't be shy
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
