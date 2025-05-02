@@ -41,13 +41,6 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
