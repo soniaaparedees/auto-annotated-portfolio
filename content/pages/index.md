@@ -41,13 +41,6 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: Desire
-          label: Desire
-          hideLabel: true
-          placeholder: come on don't be shy
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - type: TextFormControl
           name: name
           label: Name
