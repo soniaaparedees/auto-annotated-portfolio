@@ -43,7 +43,7 @@ sections:
       fields:
         - type: TextFormControl
           name: desire
-          label: Desire
+          label: desire
           hideLabel: false
           placeholder: come on don't be shy
           width: full
