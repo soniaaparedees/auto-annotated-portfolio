@@ -42,7 +42,7 @@ sections:
       elementId: sign-up-form
       fields:
         - name: tell me
-          label: come on don't be shy
+          label: Desire
           hideLabel: true
           placeholder: tell me
           isRequired: true
