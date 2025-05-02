@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hello WORLD!
+    title: 'hello hello! welcome to my site :)'
     subtitle: My name is Sonia Paredes.
     styles:
       self:
