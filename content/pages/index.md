@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'hello hello! welcome to my site :)'
-    subtitle: my name is sonia paredes and i like to tinker
+    subtitle: "my name is sonia paredes and i like to tinker\_⚙️"
     styles:
       self:
         height: auto
