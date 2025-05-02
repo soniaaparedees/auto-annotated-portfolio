@@ -43,7 +43,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: desire
           hideLabel: false
           placeholder: Your name
           width: full
