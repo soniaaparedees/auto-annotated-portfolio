@@ -42,7 +42,7 @@ sections:
       elementId: sign-up-form
       fields:
         - type: TextFormControl
-          name: name
+          name: desire
           label: Desire
           hideLabel: false
           placeholder: come on don't be shy
