@@ -46,7 +46,7 @@ sections:
           hideLabel: true
           placeholder: come on don't be shy
           isRequired: true
-          width: 1/2
+          width: full
           type: EmailFormControl
       submitLabel: "Submit \U0001F680"
       styles:
